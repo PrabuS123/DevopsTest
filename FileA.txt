@@ -1,2 +1,1 @@
-This is file A.
-New line is changed.
+This is file A
